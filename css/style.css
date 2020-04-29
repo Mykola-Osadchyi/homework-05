@@ -158,7 +158,7 @@ body {
 }
 
 .slider-arrows-button {
-  background-color: rgb(26, 188, 156);
+  background-color: rgba(78, 198, 171, 0.65);
   width: 104px;
   height: 104px;
   background-repeat: no-repeat;
@@ -168,8 +168,8 @@ body {
   background-size: 100px;
 }
 
-.inactive-button {
-  background-color: rgba(78, 198, 171, 0.65);
+.slider-arrows-button:hover {
+  background-color: rgb(26, 188, 156);
 }
 
 .prev {
